@@ -82,7 +82,7 @@ We used the **Boston Housing Dataset** (or a similar dataset) that includes vari
 ## 📢 Connect
 Feel free to check out my LinkedIn post for more insights and updates!
 
-[🔗 R. Gopinathreddy Reddyvari](#) | [📂 GitHub Repository](#)
+[🔗 Linkedin](R. Gopinathreddy Reddyvari](#) | [📂 [GitHub Repository](https://lnkd.in/eMMGD2nc)](#)
 
 ---
 
